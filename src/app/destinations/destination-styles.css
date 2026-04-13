@@ -1,0 +1,100 @@
+/* In this file, we can override the default styles and add new ones for the destinations page */
+
+.destinations-page-container {
+    --dest-primary: #13ec25;
+    --background-light: #f6f8f6;
+    --background-dark: #102212;
+    --text-light: #111812;
+    --text-dark: #ffffff;
+    --input-border-light: #dbe6dc;
+    --input-border-dark: #2a3d2c;
+    --input-bg-light: #ffffff;
+    --input-bg-dark: #1a2e1d;
+
+    /* Apply base styles */
+    font-family: "Inter", sans-serif;
+}
+
+.destinations-page-container {
+    color: var(--text-light);
+    background-color: var(--background-light);
+    @apply transition-colors duration-200;
+}
+
+.dark .destinations-page-container {
+    color: var(--text-dark);
+    background-color: var(--background-dark);
+}
+
+.destinations-page-container ::-webkit-scrollbar {
+    width: 8px;
+}
+.destinations-page-container ::-webkit-scrollbar-track {
+    background: transparent;
+}
+.destinations-page-container ::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+
+.destinations-page-container .text-dest-primary {
+  color: var(--dest-primary);
+}
+
+.destinations-page-container .bg-dest-primary {
+  background-color: var(--dest-primary);
+}
+
+.destinations-page-container input,
+.destinations-page-container textarea {
+    @apply w-full h-14 rounded-xl border px-4 text-base outline-none transition-all;
+    border-color: var(--input-border-light);
+    background-color: var(--input-bg-light);
+    color: var(--text-light);
+}
+
+.destinations-page-container textarea {
+    @apply h-32 resize-none p-4;
+}
+
+.dark .destinations-page-container input,
+.dark .destinations-page-container textarea {
+    border-color: var(--input-border-dark);
+    background-color: var(--input-bg-dark);
+    color: var(--text-dark);
+}
+
+ .destinations-page-container input::placeholder,
+.destinations-page-container textarea::placeholder {
+    color: #9ca3af; /* gray-400 */
+}
+
+.destinations-page-container input:focus,
+.destinations-page-container textarea:focus {
+    border-color: var(--dest-primary);
+    --tw-ring-color: var(--dest-primary);
+    --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+    --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);
+    box-shadow: var(--tw-shadow, 0 0 #0000), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+}
+
+.destinations-page-container input[type="date"] {
+    color-scheme: light;
+}
+
+.dark .destinations-page-container input[type="date"] {
+    color-scheme: dark;
+}
+ 
+ .destinations-page-container .hero-bg-image {
+    @apply bg-destinations-hero;
+ }
+ 
+ .destinations-page-container .text-text-light {
+    color: var(--text-light);
+}
+
+.dark .destinations-page-container .text-text-light {
+    color: var(--text-dark);
+}
+

@@ -1,0 +1,284 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A stunning aerial view of a Sri Lankan beach with palm trees and turquoise water.",
+      "imageUrl": "/uploads/ocean-4270249_1920.jpg",
+      "imageHint": "sri lanka beach",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "sri-lanka-essentials-tour",
+      "description": "Lush green tea plantations in the Sri Lankan highlands.",
+      "imageUrl": "https://images.unsplash.com/photo-1755099341681-2a67dfc23584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8dGVhJTIwc3JpJTIwbGFua2F8ZW58MHx8fHwxNzY2NzY3NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tea plantations",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "southern-coast-adventure-tour",
+      "description": "A beautiful sunset over a tropical beach in southern Sri Lanka.",
+      "imageUrl": "https://images.unsplash.com/photo-1704797390325-b057758d8c3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8Z2FsbGV8ZW58MHx8fHwxNzY2NzcxNDA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "galle sri lanka",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "cultural-triangle-explorer-tour",
+      "description": "A traditional colorful Sri Lankan mask.",
+      "imageUrl": "https://images.unsplash.com/photo-1720945489924-19b707539b3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYXNrJTIwc3JpJTIwbGFua2F8ZW58MHx8fHwxNzY2NzY3Njk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sri lankan mask",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "highlands-and-wildlife-tour",
+      "description": "A leopard in Yala National Park.",
+      "imageUrl": "https://images.unsplash.com/photo-1705936981588-a4192f66fcfb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aWxkbGlmZSUyMHNyaSUyMGxhbmthfGVufDB8fHx8MTc2Njc3MTMxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildlife sri lanka",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "family-fun-sun-tour",
+      "description": "A happy family on a beach vacation.",
+      "imageUrl": "https://images.unsplash.com/photo-1602255680702-c47261041a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYW1pbHklMjBwaG90b3xlbnwwfHx8fDE3NjY4MDg4ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "family photo"
+    },
+    {
+      "id": "testimonial-avatar-1",
+      "description": "Avatar for a happy couple.",
+      "imageUrl": "https://images.unsplash.com/photo-1614439196722-e31879584183?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aGFwcHklMjBjb3VwbGV8ZW58MHx8fHwxNzY2ODA4ODg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "happy couple",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "testimonial-avatar-2",
+      "description": "Avatar for a smiling woman.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1559855603-ce4c8f480d76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzY2NzE1MzUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "testimonial-avatar-3",
+      "description": "Scenic view of a train in Sri Lanka.",
+      "imageUrl": "https://images.unsplash.com/photo-1711524890054-6208c801aa21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0cmF2ZWwlMjBzcmklMjBsYW5rYXxlbnwwfHx8fDE3NjY4MTI0MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel sri lanka"
+    },
+    {
+      "id": "kandy-destination",
+      "description": "Temple of the Tooth Relic in Kandy.",
+      "imageUrl": "https://images.unsplash.com/photo-1707324021005-a3d0c48cfcbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrYW5keSUyMHRlbXBsZXxlbnwwfHx8fDE3NjY3NTM1Nzd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "kandy temple",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "sigiriya-destination",
+      "description": "A stunning, high-resolution photograph of the majestic Sigiriya Rock Fortress in Sri Lanka, viewed from a distance with the lush green jungle surrounding its base and a clear blue sky above.",
+      "imageUrl": "https://images.unsplash.com/photo-1579762499131-38f374530863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzaWdpcml5YSUyMHNyaSUyMGxhbmthfGVufDB8fHx8MTc2NjgxMDExN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sigiriya sri lanka",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "kandy-ella-train",
+      "description": "Train moving through lush green tea plantations in Sri Lanka",
+      "imageUrl": "https://images.unsplash.com/photo-1665849050430-5e8c16bacf7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrYW5keXxlbnwwfHx8fDE3NjY3NjU5MDZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "sri lanka train",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "mirissa-beach",
+      "description": "A stunning view of the iconic Parrot Rock in Mirissa, Sri Lanka, with waves crashing against the shore at sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1563115902-b6028bd035f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiZWFjaCUyMHNyaSUyMGxhbmthfGVufDB8fHx8MTc2Njc2NjI2MXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "mirissa beach",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "yala-safari",
+      "description": "Elephants gathering at a national park in Sri Lanka",
+      "imageUrl": "https://images.unsplash.com/photo-1636966542391-8dd8a91f1390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5YWxhfGVufDB8fHx8MTc2Njc2Nzc3NXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "elephant safari",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "nine-arch-bridge-card",
+      "description": "Famous Nine Arch Bridge in Ella Sri Lanka with train passing",
+      "imageUrl": "https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzcmklMjBsYW5rYSUyMHRyYWlufGVufDB8fHx8MTc2Njc2MzI5Mnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "sri lanka train",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "cta-background",
+      "description": "A beautiful lush green landscape with a river in Sri Lanka.",
+      "imageUrl": "https://images.unsplash.com/photo-1584603327369-d41a627d5fcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Zm9yZXN0JTIwc3JpJTIwbGFua2F8ZW58MHx8fHwxNzY2NzY4MzY5fDA&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "sri lanka nature",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "galle-destination",
+      "description": "The Galle Fort lighthouse.",
+      "imageUrl": "https://images.unsplash.com/photo-1743615132653-d6bfc6f8fac6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxnYWxsZSUyMGxpZ2h0aG91c2V8ZW58MHx8fHwxNzY2NzUzNTc3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "galle lighthouse",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "yala-destination",
+      "description": "A leopard in Yala National Park.",
+      "imageUrl": "https://images.unsplash.com/photo-1705936981595-dea87508ce84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZW9wYXJkJTIweWFsYXxlbnwwfHx8fDE3NjY3NTM1Nzd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "leopard yala",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "nuwara-eliya-destination",
+      "description": "Tea plantations in Nuwara Eliya.",
+      "imageUrl": "https://images.unsplash.com/photo-1580202148112-258d5a1639c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxudXdhcmElMjBlbGl5YXxlbnwwfHx8fDE3NjY4Mjg4MDd8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "nuwara eliya",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "ella-destination",
+      "description": "Nine Arch Bridge in Ella.",
+      "imageUrl": "https://images.unsplash.com/photo-1578519050142-afb511e518de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzcmklMjBsYW5rYSUyMHRyYWlufGVufDB8fHx8MTc2Njc2MzI5Mnww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "ella sri lanka",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "mirissa-destination",
+      "description": "Mirissa beach with Parrot Rock.",
+      "imageUrl": "https://images.unsplash.com/photo-1563115902-b6028bd035f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiZWFjaCUyMHNyaSUyMGxhbmthfGVufDB8fHx8MTc2Njc2NjI2MXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "mirissa beach",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "yala-national-park-destination",
+      "description": "An elephant in Yala National Park.",
+      "imageUrl": "https://images.unsplash.com/photo-1636966542391-8dd8a91f1390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx5YWxhfGVufDB8fHx8MTc2Njc2Nzc3NXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "yala national park",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "anuradhapura-destination",
+      "description": "Ancient ruins in Anuradhapura.",
+      "imageUrl": "https://images.unsplash.com/photo-1627763071302-f016c053351d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbnVyYWRoYXB1cmF8ZW58MHx8fHwxNzY2ODI4ODc1fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "anuradhapura ruins",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "polonnaruwa-destination",
+      "description": "Historic statues in Polonnaruwa.",
+      "imageUrl": "https://images.unsplash.com/photo-1627894224956-613c7f0d015c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb2xvbm5hcnV3YXxlbnwwfHx8fDE3NjY4Mjg5MTJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "polonnaruwa statues",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "dambulla-destination",
+      "description": "Dambulla cave temple interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1627894225023-8889a79a4059?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYW1idWxsYSUyMGNhdmUlMjB0ZW1wbGV8ZW58MHx8fHwxNzY2ODI4OTQ2fDA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "dambulla temple",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "horton-plains-destination",
+      "description": "World's End at Horton Plains.",
+      "imageUrl": "https://images.unsplash.com/photo-1601691233809-58807954e38c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxob3J0b24lMjBwbGFpbnN8ZW58MHx8fHwxNzY2ODI4OTc4fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "horton plains",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "unawatuna-destination",
+      "description": "Unawatuna beach from above.",
+      "imageUrl": "https://images.unsplash.com/photo-1613524587748-0137258385bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1bmF3YXR1bmF8ZW58MHx8fHwxNzY2ODI5MDA5fDA&ixlibrb-4.1.0&q=80&w=1080",
+      "imageHint": "unawatuna beach",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "bentota-destination",
+      "description": "Bentota river safari.",
+      "imageUrl": "https://images.unsplash.com/photo-1626242548834-58342d815779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZW50b3RhfGVufDB8fHx8MTc2NjgyOTAzNnww&ixlib.rb-4.1.0&q=80&w=1080",
+      "imageHint": "bentota river",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "haputale-destination",
+      "description": "View from Lipton's Seat in Haputale.",
+      "imageUrl": "https://images.unsplash.com/photo-1580202148112-258d5a1639c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx4YXB1dGFsZXxlbnwwfHx8fDE3NjY4MjkwNjV8MA&ixlib_rb_4.1.0&q=80&w=1080",
+      "imageHint": "haputale view",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "hikkaduwa-destination",
+      "description": "Coral reefs in Hikkaduwa.",
+      "imageUrl": "https://images.unsplash.com/photo-1593539929842-861e670e176b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHzoaWtrYWR1d2F8ZW58MHx8fHwxNzY2ODI5MDg5fDA&ixlib_rb_4.1.0&q=80&w=1080",
+      "imageHint": "hikkaduwa coral",
+      "data-ai-placeholder": "true"
+    },
+    {
+      "id": "about-hero-bg-new",
+      "description": "Sunlight filtering through trees in a forest.",
+      "imageUrl": "/uploads/sun-light-176638_1920.jpg",
+      "imageHint": "sunlight forest"
+    },
+    {
+      "id": "about-stilt-fishermen",
+      "description": "Traditional Sri Lankan stilt fishermen at sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1765115393275-e6f3eb71628c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdGlsdCUyMGZpc2hlcm1lbnxlbnwwfHx8fDE3NjY4MDM1NDJ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "stilt fishermen"
+    },
+    {
+      "id": "about-sigiriya-rock",
+      "description": "Sigiriya rock fortress, an ancient ruin in the jungle.",
+      "imageUrl": "https://images.unsplash.com/photo-1580803834205-0e64baf9d13d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzaWdpcml5YSUyMHJvY2t8ZW58MHx8fHwxNzY2NzUzNTc3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "sigiriya rock"
+    },
+    {
+      "id": "kumara-perera-portrait",
+      "description": "Close-up portrait of a smiling Sri Lankan man, likely a tour guide.",
+      "imageUrl": "https://images.unsplash.com/photo-1651632833531-f84d6f82f22b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzcmklMjBsYW5rYW4lMjBtYW58ZW58MHx8fHwxNzY2ODAzNTQyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "sri lankan man"
+    },
+    {
+      "id": "dilani-silva-portrait",
+      "description": "Professional portrait of a smiling woman who looks like a cultural expert.",
+      "imageUrl": "https://images.unsplash.com/photo-1610631066894-62452ccb927c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9mZXNzaW9uYWwlMjB3b21hbnxlbnwwfHx8fDE3NjY3NTYwMTB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "nuwan-fernando-portrait",
+      "description": "A smiling man with a casual look, could be a safari specialist.",
+      "imageUrl": "https://images.unsplash.com/photo-1562124638-724e13052daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c21pbGluZyUyMG1hbnxlbnwwfHx8fDE3NjY3MTM5MzZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling man"
+    },
+    {
+      "id": "anjali-de-silva-portrait",
+      "description": "Portrait of a smiling woman in bright, natural light.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzY2NzE1MzUxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "about-cta-bg-train",
+      "description": "Train traveling through a lush green forest in Sri Lanka.",
+      "imageUrl": "https://images.unsplash.com/photo-1709976882631-e00bb1cbcb77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8c3JpJTIwbGFua2ElMjBmb3Jlc3R8ZW58MHx8fHwxNzY2ODAyNjY3fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "sri lanka forest"
+    },
+    {
+      "id": "testimonial-avatar-sarah-jenkins",
+      "description": "Avatar for Sarah Jenkins",
+      "imageUrl": "https://images.unsplash.com/photo-1612994451093-c6791c8989cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzbWlsaW5nJTIwd29tYW58ZW58MHx8fHwxNzY2Nzc5MDMzfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "smiling woman"
+    },
+    {
+      "id": "contact-hero-bg",
+      "description": "A beautiful tropical beach with palm trees and clear blue water.",
+      "imageUrl": "/uploads/beach-1853902_1920.jpg",
+      "imageHint": "tropical beach"
+    },
+    {
+      "id": "contact-map-bg",
+      "description": "Map of Colombo, Sri Lanka showing a location",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuD5KUQEnmyPhpDOmzG4Su-vDYe-l6LMwc0mPNnsf0CetM2z_kMupTC3dBURZ1Rkxe3VWc7NmaBKaOUG5YujdwIguXwTlpuQjroLhUxdBOayfz2Vy_zJGUsHgFg887AnAec0YJ17_w7pm2O2f9Zz6IMYi03pPGxg9ZWHKe9Ywy0EtaKeCWLTgygHnEyXBD6E10XHT9RM8HTANfTCiwRsF-9yCRhC0QJ62zl8mSXRgP9Z3qsezzhr43UOh41ttoFDqQ1JnTZp-mACv1MB",
+      "imageHint": "colombo map"
+    },
+    {
+      "id": "tours-hero-bg",
+      "description": "A bustling fish market in Sri Lanka.",
+      "imageUrl": "/uploads/fish-market-7519944_1920.jpg",
+      "imageHint": "fish market"
+    }
+  ]
+}
